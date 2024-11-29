@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.image-box {
+    float: right;
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    margin-bottom: 20px;
+    background-color: #f0f0f0;
+    display:flex;
+    margin-top:-100px;
+    }
+h2 {
+    margin-top: 20px;
+    text-transform: uppercase;
+    border-bottom: 2px solid black;
+    color:white;
+    background-color:black;
+}
+
+h3 {
+    display: inline;
+    margin-right: 10px;
+}
+
+.container {
+    width: 800px;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 20px;
+}
+
+
+table {
+    width: 100%;
+    margin-top: 10px;
+}
+
+td {
+    padding: 5px;
+}
+
+.signature {
+    margin-top: 40px;
+    text-align: right;
+}
